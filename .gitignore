@@ -1,0 +1,7 @@
+easyssh/pyvenv.cfg
+easyssh/lib/
+easyssh/lib64
+easyssh/include/
+easyssh/bin/
+easyssh/__pycache__/
+easyssh/tools/__pycache__/
