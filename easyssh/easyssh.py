@@ -7,6 +7,11 @@ from tools.cert import cert
 from tools.color import color
 from tabulate import tabulate
 
+# List all modules for building using pyinstaller
+import paramiko
+from colorama import Fore, Style
+
+
 metadata_file = os.path.expanduser('~/.easyssh/hosts.json')
 private_key_path = os.path.expanduser('~/.easyssh/.rsa_key_temp')
 
