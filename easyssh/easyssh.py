@@ -1,7 +1,6 @@
 import json
 import os
 import sys
-import time
 import subprocess
 from getpass import getpass
 from tools.cert import cert
