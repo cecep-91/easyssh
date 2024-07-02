@@ -1,5 +1,6 @@
 from colorama import Fore, Style
 
+
 class color:
     def __init__(self, text):
         self.text = text

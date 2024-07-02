@@ -1,6 +1,7 @@
 import paramiko
 import os
 
+
 class cert:
     def __init__(self, private_key_path):
         self.private_key_path = private_key_path
